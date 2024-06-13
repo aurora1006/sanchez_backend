@@ -1,0 +1,66 @@
+.gradle
+/build/
+/log
+
+### Python build
+docker/lib/venv
+.ropeproject/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+/out/
+/.fleet/
+
+### NetBeans ###
+/nbproject/
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+.nb-gradle-properties
+gradle.properties
+
+### VsCode ###
+/.vscode
+/.history
+/bin
+
+### Docker ###
+/docker/.docker-var-env
+/build-docker/
+/docker/build-docker/
+
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
